@@ -4,6 +4,7 @@ This was a small little project done by me do understand better how the IOS ecos
 The objective of this programme is to know what are the top-headlines, the sports news and the economic news of the world. In order to do this project i used:
 
   -> API to get the latest news - https://newsapi.org
+    ->Get json file from API and use in array
   
   -> ListView with Custom Cells 
   
